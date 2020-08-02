@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@babel/plugin-proposal-decorators": "^7.10.5",
     "next": "9.5.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
